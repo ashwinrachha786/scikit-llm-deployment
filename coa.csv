@@ -1,0 +1,74 @@
+ID,account_type,account_subtype,classification
+0,Expense,AdvertisingPromotional,Expense
+1,Other Current Asset,OtherCurrentAssets,Asset
+2,Expense,Auto,Expense
+3,Expense,Auto,Expense
+4,Expense,Auto,Expense
+5,Expense,BankCharges,Expense
+6,Expense,BankCharges,Expense
+7,Expense,BankCharges,Expense
+8,Income,SalesOfProductIncome,Revenue
+9,Cost of Goods Sold,CostOfLaborCos,Expense
+10,Expense,DuesSubscriptions,Expense
+11,Expense,Insurance,Expense
+12,Other Income,InterestEarned,Revenue
+13,Expense,InterestPaid,Expense
+14,Expense,LegalProfessionalFees,Expense
+15,Expense,LegalProfessionalFees,Expense
+16,Expense,LegalProfessionalFees,Expense
+17,Expense,EntertainmentMeals,Expense
+18,Expense,OfficeGeneralAdministrativeExpenses,Expense
+19,Expense,OfficeGeneralAdministrativeExpenses,Expense
+20,Expense,OfficeGeneralAdministrativeExpenses,Expense
+21,Equity,OpeningBalanceEquity,Equity
+22,Other Expense,OtherMiscellaneousExpense,Expense
+23,Equity,RetainedEarnings,Equity
+24,Income,SalesOfProductIncome,Revenue
+25,Equity,OwnersEquity,Equity
+26,Equity,OwnersEquity,Equity
+27,Equity,OwnersEquity,Equity
+28,Expense,ShippingFreightDelivery,Expense
+29,Expense,OtherBusinessExpenses,
+30,Expense,TaxesPaid,Expense
+31,Other Current Asset,OtherCurrentAssets,Asset
+32,Expense,OtherMiscellaneousServiceCost,Expense
+33,Income,SalesOfProductIncome,Revenue
+34,Other Current Asset,UndepositedFunds,Asset
+35,Expense,Utilities,Expense
+36,Credit Card,CreditCard,Liability
+37,Bank,Checking,Asset
+38,Bank,Checking,Asset
+39,Bank,Checking,Asset
+40,Bank,Savings,Asset
+41,Expense,OfficeGeneralAdministrativeExpenses,Expense
+42,Expense,Travel,Expense
+43,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+44,Cost of Goods Sold,CostOfLaborCos,Expense
+45,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+46,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+47,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+48,Cost of Goods Sold,CostOfLaborCos,Expense
+49,Cost of Goods Sold,OtherCostsOfServiceCos,Expense
+50,Cost of Goods Sold,CostOfLaborCos,Expense
+51,Cost of Goods Sold,OtherCostsOfServiceCos,Expense
+52,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+53,Cost of Goods Sold,CostOfLaborCos,Expense
+54,Fixed Asset,FixedAssetComputers,
+55,Other Current Asset,Investment_Other,Asset
+56,Expense,OtherBusinessExpenses,
+57,Expense,OtherBusinessExpenses,
+58,Cost of Goods Sold,SuppliesMaterialsCogs,Expense
+59,Fixed Asset,FurnitureAndFixtures,Asset
+60,Other Current Asset,Inventory,Asset
+61,Other Income,OtherMiscellaneousIncome,Revenue
+62,Expense,PayrollExpenses,Expense
+63,Expense,PayrollExpenses,Expense
+64,Expense,PayrollExpenses,Expense
+65,Expense,PayrollExpenses,Expense
+66,Expense,PayrollExpenses,Expense
+67,Other Current Liability,PayrollTaxPayable,Liability
+68,Other Current Asset,PrepaidExpenses,Asset
+69,Expense,RentOrLeaseOfBuildings,Expense
+70,Expense,RepairMaintenance,Expense
+71,Income,SalesOfProductIncome,Revenue
+72,Other Current Asset,OtherCurrentAssets,Asset
