@@ -4,6 +4,7 @@ import numpy as np
 from skllm.config import SKLLMConfig
 from skllm import ZeroShotGPTClassifier
 import os
+from fastapi.middleware.cors import CORSMiddleware
 
 from environs import Env
 
@@ -30,6 +31,14 @@ clf.fit(X, y)
 
 
 app = FastAPI(docs_url="/api/docs", openapi_url="/api/openapi.json")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 
 # Health check endpoint
 @app.get("/api/healthchecker")
