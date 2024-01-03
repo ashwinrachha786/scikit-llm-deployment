@@ -59,6 +59,7 @@ typing_extensions==4.9.0
 tzdata==2023.3
 urllib3==2.1.0
 yarl==1.9.4
-
+environs
+Environs
 python-multipart
 # Add any other libraries you're using
